@@ -1,0 +1,51 @@
+Student_ID,Gender,Prior_Knowledge_TLE,Teacher_Specialization,Teacher_Experience_Years,Teaching_Strategy,ICT_Grade,Agriculture_Grade,Tourism_Grade,Industrial_Arts_Grade,Learning_Resources_Available,Student_Engagement,Classroom_Size
+S001,Male,Yes,Agriculture,10,Lecture-Based,76,89,86,97,Adequate,Low,48
+S002,Female,Yes,Industrial Arts,15,Hands-On,100,96,89,80,Limited,Low,23
+S003,Male,Yes,Industrial Arts,8,Blended Learning,81,87,73,98,Adequate,Low,27
+S004,Male,No,Industrial Arts,7,Lecture-Based,86,87,77,98,Adequate,Medium,27
+S005,Female,Yes,ICT,6,Project-Based,89,99,79,73,Adequate,Low,33
+S006,Male,No,Industrial Arts,9,Blended Learning,91,77,73,79,Limited,High,24
+S007,Male,No,Agriculture,15,Project-Based,98,72,81,95,Adequate,Medium,38
+S008,Male,No,Non-TLE,12,Lecture-Based,73,92,80,81,Limited,Medium,40
+S009,Female,Yes,Industrial Arts,13,Project-Based,89,70,80,84,Limited,Low,34
+S010,Male,No,Tourism,14,Project-Based,86,97,83,82,Adequate,Low,24
+S011,Male,Yes,Industrial Arts,8,Lecture-Based,83,89,88,80,Adequate,Low,24
+S012,Male,No,Tourism,11,Blended Learning,95,73,82,72,Adequate,Low,45
+S013,Male,Yes,Non-TLE,12,Blended Learning,83,100,91,77,Limited,Low,38
+S014,Female,No,Agriculture,8,Project-Based,71,77,90,75,Limited,Low,50
+S015,Male,No,ICT,13,Lecture-Based,93,100,81,98,Limited,Low,21
+S016,Male,No,Tourism,6,Blended Learning,90,72,87,87,Limited,Low,21
+S017,Female,Yes,Industrial Arts,10,Lecture-Based,87,97,70,91,Limited,High,21
+S018,Female,No,Tourism,1,Project-Based,100,82,86,93,Limited,High,42
+S019,Female,Yes,Non-TLE,5,Hands-On,82,75,73,96,Adequate,Low,30
+S020,Female,No,Non-TLE,14,Hands-On,73,100,86,89,Adequate,Low,43
+S021,Male,No,ICT,10,Project-Based,81,74,71,76,Adequate,Medium,29
+S022,Male,No,Agriculture,7,Project-Based,90,95,86,89,Limited,Medium,37
+S023,Female,Yes,Industrial Arts,15,Blended Learning,73,78,97,82,Limited,Low,33
+S024,Male,Yes,Industrial Arts,2,Project-Based,82,76,86,70,Limited,Medium,49
+S025,Male,Yes,ICT,10,Lecture-Based,94,90,75,91,Limited,Low,41
+S026,Male,No,ICT,3,Hands-On,98,71,85,79,Limited,Medium,37
+S027,Male,No,Industrial Arts,10,Project-Based,91,97,75,84,Adequate,Low,20
+S028,Male,Yes,Non-TLE,13,Project-Based,91,94,95,76,Adequate,Low,39
+S029,Female,Yes,ICT,11,Project-Based,98,80,85,84,Limited,Low,41
+S030,Male,Yes,ICT,12,Hands-On,74,93,82,97,Limited,Low,49
+S031,Female,No,Industrial Arts,8,Project-Based,95,73,83,90,Limited,High,22
+S032,Male,No,Tourism,3,Hands-On,100,93,72,78,Limited,High,41
+S033,Male,No,Tourism,11,Hands-On,99,84,94,79,Limited,Medium,25
+S034,Male,No,Agriculture,10,Blended Learning,72,100,84,88,Limited,High,45
+S035,Female,No,Industrial Arts,2,Blended Learning,88,72,97,74,Adequate,High,43
+S036,Female,No,Non-TLE,4,Hands-On,90,73,83,73,Limited,Medium,46
+S037,Male,No,Industrial Arts,13,Blended Learning,76,71,75,75,Adequate,Low,30
+S038,Male,Yes,Industrial Arts,1,Lecture-Based,90,98,72,87,Adequate,Low,23
+S039,Female,No,Agriculture,6,Lecture-Based,90,99,79,100,Limited,Low,32
+S040,Female,No,Industrial Arts,15,Project-Based,81,87,87,88,Limited,Low,50
+S041,Female,No,ICT,3,Project-Based,95,94,88,86,Adequate,Medium,41
+S042,Male,Yes,Agriculture,14,Blended Learning,93,84,73,75,Limited,Low,30
+S043,Female,Yes,Agriculture,9,Hands-On,98,72,80,81,Limited,Low,50
+S044,Male,Yes,Industrial Arts,8,Project-Based,88,98,78,89,Limited,Low,29
+S045,Female,No,Tourism,9,Hands-On,83,100,77,73,Limited,Medium,25
+S046,Female,No,Tourism,15,Blended Learning,76,83,71,86,Limited,Low,26
+S047,Female,No,Tourism,11,Blended Learning,96,95,80,79,Limited,High,31
+S048,Male,Yes,Non-TLE,5,Project-Based,83,89,97,95,Limited,High,39
+S049,Male,Yes,Non-TLE,12,Lecture-Based,70,75,80,79,Limited,Low,23
+S050,Male,Yes,Tourism,14,Lecture-Based,77,73,95,87,Limited,Medium,45
